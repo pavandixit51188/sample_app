@@ -134,4 +134,4 @@ DEPENDENCIES
   sass-rails (~> 3.1.4)
   sqlite3
   uglifier (>= 1.0.3)
-  webrat
+  webrat (>= 0.7.3)
